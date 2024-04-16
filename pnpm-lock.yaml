@@ -10,7 +10,7 @@ importers:
         specifier: ^3.11.2
         version: 3.11.2(@unocss/reset@0.59.3)(floating-vue@5.2.2)(unocss@0.59.3)(vite@5.2.8)
       utils:
-        specifier: latest
+        specifier: workspace:*
         version: link:../utils
       vue:
         specifier: ^3.4.21
