@@ -10,9 +10,10 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "execa": "^8.0.1",
     "nuxt": "^3.11.2",
+    "utils": "workspace:*",
     "vue": "^3.4.21",
-    "vue-router": "^4.3.0",
-    "utils": "workspace:*"
+    "vue-router": "^4.3.0"
   }
 }
